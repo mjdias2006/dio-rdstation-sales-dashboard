@@ -8,7 +8,13 @@
 
 *Dashboard de acompanhamento de assinaturas SaaS baseado em dados de vendas da RD Station.*
 
-<img src="dashboard_preview.png" alt="Dashboard Preview" width="800px">
+## 🖼️ Visão Geral do Dashboard
+
+| Overview | Analytics |
+| :---: | :---: |
+| ![Overview](assets/dashboard_overview.png) | ![Analytics](assets/dashboard_analytics.png) |
+| **Sales** | **References** |
+| ![Sales](assets/dashboard_sales.png) | ![References](assets/dashboard_referencias.png) |
 
 </div>
 
@@ -25,6 +31,6 @@ Desenvolver um painel de BI para monitorar métricas críticas de assinaturas (S
 - **Microsoft Copilot:** Auxílio na estruturação das fórmulas e insights analíticos.
 
 ## 🚀 Como visualizar
-1. Faça o download do arquivo `RD Station Dashboard.xlsx`.
+1. Faça o download do arquivo `rd_station_dashboard.xlsx` na pasta de dados.
 2. Abra no Microsoft Excel ou Power BI.
 3. Explore as abas de "Dashboard" para ver os filtros interativos.
