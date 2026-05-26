@@ -14,7 +14,7 @@
 | :---: | :---: |
 | ![Overview](assets/dashboard_overview.png) | ![Analytics](assets/dashboard_analytics.png) |
 | **Sales** | **References** |
-| ![Sales](assets/dashboard_sales.png) | ![References](assets/dashboard_referencias.png) |
+| ![Sales](assets/dashboard_sales.png) | ![References](assets/dashboard_references.png) |
 
 </div>
 
